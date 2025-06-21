@@ -1,1 +1,1 @@
-![A beautiful tapir](../tapir.jpg)
+![A beautiful tapir](../tapir.png)
